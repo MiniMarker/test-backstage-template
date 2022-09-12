@@ -7,6 +7,9 @@ metadata:
   tags:
     - react
     - cra
+  links:
+    - url: https://github.com/backstage/backstage/issues
+      title: GitHub Issues
 spec:
   owner: web@example.com
   type: website
