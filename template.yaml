@@ -1,9 +1,9 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: create-react-app-template
-  title: Create React App Template
-  description: Create a new CRA website project
+  name: test-links-template
+  title: Test links template
+  description: Test template project for integrating links
   tags:
     - react
     - cra
